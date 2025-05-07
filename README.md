@@ -30,7 +30,7 @@ To become a **master in front-end web development** and secure a **financially s
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,github" />
 </div>
 
 ---
@@ -47,7 +47,7 @@ To become a **master in front-end web development** and secure a **financially s
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdelhamid-marmar-562205325/)
-- 🌐 [Portfolio](https://github.com/DarkHero792)
+- 🌐 [Portfolio](https://portfolio792.unaux.com/?i=1)
 - ✉️ Email: abdelhamidmarmar9@gmail.com
 
 ---
