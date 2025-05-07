@@ -39,7 +39,7 @@ To become a **master in front-end web development** and secure a **financially s
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkHero792&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHero792r&layout=compact&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkHero792&layout=compact&theme=default" />
 </div>
 
 ---
